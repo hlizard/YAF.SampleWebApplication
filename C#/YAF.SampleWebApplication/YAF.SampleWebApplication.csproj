@@ -3565,6 +3565,10 @@
     <Content Include="forum\themes\Fancy\fonts\Lobster-webfont.woff" />
     <Content Include="forum\YafUploader.ashx" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="forum\fonts\gZ8EM_Gzaq4WRjCimioyzQ.woff" />
+    <Content Include="forum\fonts\OxqeYhb8dn7VMNU4gi8OwA.woff2" />
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

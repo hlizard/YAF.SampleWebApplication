@@ -1,0 +1,6 @@
+C:\Users\julyc_000\Documents\GitHub\YAF.SampleWebApplication\C#\YAF.SampleWebApplication\bin\YAF.SampleWebApplication.dll.config
+C:\Users\julyc_000\Documents\GitHub\YAF.SampleWebApplication\C#\YAF.SampleWebApplication\bin\YAF.SampleWebApplication.dll
+C:\Users\julyc_000\Documents\GitHub\YAF.SampleWebApplication\C#\YAF.SampleWebApplication\bin\YAF.SampleWebApplication.pdb
+C:\Users\julyc_000\Documents\GitHub\YAF.SampleWebApplication\C#\YAF.SampleWebApplication\obj\Debug\YAF.SampleWebApplication.csprojResolveAssemblyReference.cache
+C:\Users\julyc_000\Documents\GitHub\YAF.SampleWebApplication\C#\YAF.SampleWebApplication\obj\Debug\YAF.SampleWebApplication.dll
+C:\Users\julyc_000\Documents\GitHub\YAF.SampleWebApplication\C#\YAF.SampleWebApplication\obj\Debug\YAF.SampleWebApplication.pdb
