@@ -64,8 +64,8 @@ namespace YAF.SampleWebApplication
                 ScriptManager.RegisterClientScriptInclude(
                     this, 
                     csType, 
-                    "JQuery", 
-                    "//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js");
+                    "JQuery",
+                    ResolveUrl("~/forum/Scripts/jquery-2.1.3.min.js"));
             }
             catch (Exception)
             {
